@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="ThemeOverlay.CityBikes.FullscreenContainer" parent="">
+        <item name="fullscreenBackgroundColor">@color/light_blue_600</item>
+        <item name="fullscreenTextColor">@color/light_blue_A200</item>
+    </style>
+
+    <style name="Theme.CityBikes.Fullscreen" parent="Theme.CityBikes">
+        <item name="android:actionBarStyle">@style/Widget.Theme.CityBikes.ActionBar.Fullscreen
+        </item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@null</item>
+    </style>
+</resources>

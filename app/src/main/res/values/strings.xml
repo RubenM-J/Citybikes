@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">CityBikes</string>
+    <string name="title_hint">Deal Title</string>
+    <string name="price_hint">Price (numbers only)</string>
+    <string name="description_hint">Description</string>
+    <string name="save_menu">save</string>
+    <string name="delete_bike">Delete bike</string>
+    <string name="location_denied">Location denied</string>
+    <string name="location_granted">Location granted</string>
+    <string name="permission_required_toast">Permission required</string>
+    <string name="permission_rationale_location">U fekking wot m8</string>
+    <string name="welcome">Welcome</string>
+    <string name="findbike">Find a Bike!</string>
+    <string name="profile">Profile</string>
+    <string name="name_user">Name Lastname</string>
+    <string name="age_user">Age</string>
+    <string name="country_user">Country</string>
+    <string name="edit_button">Edit</string>
+    <string name="statistics">Statistics</string>
+    <string name="preferences_user">Preferences</string>
+    <string name="paymentmethod">Payment</string>
+    <string name="display_values">Values</string>
+    <string name="imperial">Imperial</string>
+    <string name="metric">Metric</string>
+    <string name="mode">Mode</string>
+    <string name="dark">Dark</string>
+    <string name="light">Light</string>
+    <string name="automatic">Automatic</string>
+    <string name="selected_language">English</string>
+    <string name="language">Language</string>
+    <string name="Showmap">Show map</string>
+    <string-array name="languages">
+        <item name="en">English</item>
+        <item name="be">Dutch</item>
+    </string-array>
+    <string-array name="countries">
+        <item name="EMPTY"></item>
+        <item name="BE">BE</item>
+        <item name="NL">NL</item>
+        <item name="DE">DE</item>
+    </string-array>
+    <string name="title_activity_item_detail_host">ItemDetailHostActivity</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

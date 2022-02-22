@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "571028983890",
+    "firebase_url": "https://citybikes-a33d6-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "citybikes-a33d6",
+    "storage_bucket": "citybikes-a33d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571028983890:android:d5cfeae02486156df4cf8b",
+        "android_client_info": {
+          "package_name": "com.example.citybikes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571028983890-aqkmf2ok3tqid7vpo65m3np906s8r4tp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.citybikes",
+            "certificate_hash": "85b7a4c6c6af543efcfd78ebcb0d758ad1d4a893"
+          }
+        },
+        {
+          "client_id": "571028983890-9hijlkg0i00j7ueqandm2qt3lnbbuqjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdBOqoW_lCMsd1K3ksSfolg7-hbehzyJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571028983890-9hijlkg0i00j7ueqandm2qt3lnbbuqjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

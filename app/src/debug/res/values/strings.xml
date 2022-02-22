@@ -1,0 +1,5 @@
+<resources>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_google_maps">GoogleMaps</string>
+    <string name="metric_values">true</string>
+</resources>
