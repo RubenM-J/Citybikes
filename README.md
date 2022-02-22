@@ -29,4 +29,4 @@ I used the following concepts:
 * Supporting landscape & portrait mode
 
 ### Thanks
-Special thanks to Michiel for some help.
+Special thanks to Michiel for the help.
